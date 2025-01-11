@@ -1,0 +1,10 @@
+C:\Users\piotr\source\repos\sortowanie\sortowanie\bin\Debug\sortowanie.exe.config
+C:\Users\piotr\source\repos\sortowanie\sortowanie\bin\Debug\sortowanie.exe
+C:\Users\piotr\source\repos\sortowanie\sortowanie\bin\Debug\sortowanie.pdb
+C:\Users\piotr\source\repos\sortowanie\sortowanie\obj\Debug\sortowanie.csproj.AssemblyReference.cache
+C:\Users\piotr\source\repos\sortowanie\sortowanie\obj\Debug\sortowanie.Form1.resources
+C:\Users\piotr\source\repos\sortowanie\sortowanie\obj\Debug\sortowanie.Properties.Resources.resources
+C:\Users\piotr\source\repos\sortowanie\sortowanie\obj\Debug\sortowanie.csproj.GenerateResource.cache
+C:\Users\piotr\source\repos\sortowanie\sortowanie\obj\Debug\sortowanie.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\sortowanie\sortowanie\obj\Debug\sortowanie.exe
+C:\Users\piotr\source\repos\sortowanie\sortowanie\obj\Debug\sortowanie.pdb
