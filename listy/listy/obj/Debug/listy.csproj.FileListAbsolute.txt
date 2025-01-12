@@ -1,0 +1,10 @@
+C:\Users\piotr\source\repos\listy\listy\bin\Debug\listy.exe.config
+C:\Users\piotr\source\repos\listy\listy\bin\Debug\listy.exe
+C:\Users\piotr\source\repos\listy\listy\bin\Debug\listy.pdb
+C:\Users\piotr\source\repos\listy\listy\obj\Debug\listy.csproj.AssemblyReference.cache
+C:\Users\piotr\source\repos\listy\listy\obj\Debug\listy.Form1.resources
+C:\Users\piotr\source\repos\listy\listy\obj\Debug\listy.Properties.Resources.resources
+C:\Users\piotr\source\repos\listy\listy\obj\Debug\listy.csproj.GenerateResource.cache
+C:\Users\piotr\source\repos\listy\listy\obj\Debug\listy.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\listy\listy\obj\Debug\listy.exe
+C:\Users\piotr\source\repos\listy\listy\obj\Debug\listy.pdb
