@@ -1,0 +1,10 @@
+C:\Users\piotr\source\repos\Drzewa\Drzewa\bin\Debug\Drzewa.exe.config
+C:\Users\piotr\source\repos\Drzewa\Drzewa\bin\Debug\Drzewa.exe
+C:\Users\piotr\source\repos\Drzewa\Drzewa\bin\Debug\Drzewa.pdb
+C:\Users\piotr\source\repos\Drzewa\Drzewa\obj\Debug\Drzewa.csproj.AssemblyReference.cache
+C:\Users\piotr\source\repos\Drzewa\Drzewa\obj\Debug\Drzewa.Form1.resources
+C:\Users\piotr\source\repos\Drzewa\Drzewa\obj\Debug\Drzewa.Properties.Resources.resources
+C:\Users\piotr\source\repos\Drzewa\Drzewa\obj\Debug\Drzewa.csproj.GenerateResource.cache
+C:\Users\piotr\source\repos\Drzewa\Drzewa\obj\Debug\Drzewa.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\Drzewa\Drzewa\obj\Debug\Drzewa.exe
+C:\Users\piotr\source\repos\Drzewa\Drzewa\obj\Debug\Drzewa.pdb
