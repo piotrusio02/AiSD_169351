@@ -1,0 +1,10 @@
+C:\Users\piotr\source\repos\grafy\grafy\obj\Debug\grafy.csproj.AssemblyReference.cache
+C:\Users\piotr\source\repos\grafy\grafy\obj\Debug\grafy.Form1.resources
+C:\Users\piotr\source\repos\grafy\grafy\obj\Debug\grafy.Properties.Resources.resources
+C:\Users\piotr\source\repos\grafy\grafy\obj\Debug\grafy.csproj.GenerateResource.cache
+C:\Users\piotr\source\repos\grafy\grafy\obj\Debug\grafy.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\grafy\grafy\bin\Debug\grafy.exe.config
+C:\Users\piotr\source\repos\grafy\grafy\bin\Debug\grafy.exe
+C:\Users\piotr\source\repos\grafy\grafy\bin\Debug\grafy.pdb
+C:\Users\piotr\source\repos\grafy\grafy\obj\Debug\grafy.exe
+C:\Users\piotr\source\repos\grafy\grafy\obj\Debug\grafy.pdb
